@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://websiteset.github.io/women/sitemap.xml
